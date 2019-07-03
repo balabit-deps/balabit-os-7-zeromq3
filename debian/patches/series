@@ -1,0 +1,4 @@
+disable-test_security_curve.patch
+#no-hardcoded-port-in-tests.patch
+CVE-2019-6250.patch
+CVE-2019-13132.patch
